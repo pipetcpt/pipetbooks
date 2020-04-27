@@ -1,4 +1,4 @@
-baseurl = "https://bookdown.org/"
+baseurl = "https://pipetbooks.org/"
 relativeurls = true
 languageCode = "en-us"
 title = "Bookdown"
@@ -24,10 +24,6 @@ footnotereturnlinkcontents = "↩"
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "Documentation"
-    url = "http://bookdown.org/yihui/bookdown/"
-    weight = 3
-[[menu.main]]
     name = "Books"
     url = "/archive/"
     weight = 4
@@ -39,24 +35,16 @@ footnotereturnlinkcontents = "↩"
     name = "Authors"
     url = "/authors/"
     weight = 6
-[[menu.main]]
-    name = "Contest"
-    url = "/contest/"
-    weight = 7
-[[menu.main]]
-    name = "Log in"
-    url = "http://bookdown.org/connect/"
-    weight = 8
 
 [[menu.icons]]
     name = "Github"
     post = "github"
-    url = "https://github.com/rstudio/bookdown"
+    url = "https://github.com/pipetcpt/pipetbooks.com"
     weight = 1
 [[menu.icons]]
     name = "Twitter"
     post = "twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/shanmdphd"
     weight = 2
 [[menu.icons]]
     name = "RSS"
@@ -65,5 +53,5 @@ footnotereturnlinkcontents = "↩"
     weight = 3
 
 [params]
-    description = "Write HTML, PDF, ePub, and Kindle books with R Markdown"
-    footer = "&copy; [RStudio, PBC](https://www.rstudio.com) 2016 -- 2020"
+    description = "Pharmacometrics books published by PIPET"
+    footer = "&copy; [PIPET](https://www.pipet.or.kr) 2012 -- 2020"

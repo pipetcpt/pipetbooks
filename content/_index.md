@@ -6,7 +6,7 @@ title: Home
 
 ## 계량약리학 관련 서적을 집필하고 출판합니다.
 
-<img src="https://github.com/pipetcpt/introduction/raw/master/assets/PIPET-A-02.JPG" alt="The bookdown logo" align="right" style="margin-left:1em;max-width:30%;" />
+<img src="https://github.com/pipetcpt/introduction/raw/master/assets/PIPET-A-02.JPG" alt="The bookdown logo" align="right" style="margin-left:1em;max-width:15%;" />
 
 **PIPET (가톨릭계량약리학연구소, Pharmacometrics Institute for Practical Education & Training)**
 

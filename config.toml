@@ -11,7 +11,7 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.logo]]
     name = "Bookdown"
-    pre = "//bookdown.org/yihui/bookdown/images/logo.png"
+    pre = "https://github.com/pipetcpt/introduction/raw/master/assets/PIPET-A-02.JPG"
     url = "/"
     weight = 1
 

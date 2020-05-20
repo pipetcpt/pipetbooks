@@ -1,11 +1,11 @@
 ---
 title: "nmw: R패키지와 Edison 사이언스 앱을 이용한 비선형 혼합효과 모델링과 시뮬레이션"
 author: "한성필, 조용순, 김형섭, 배균섭"
-date: "2019-01-29"
+date: "2020-05-20"
 tags: [NONMEM, R, NCA]
 link: "https://asancpt.github.io/edison-nmw"
 length_weight: "100%"
-cover: "https://github.com/asancpt/edison-nmw/raw/master/cover.jpg"
+cover: "https://github.com/asancpt/edison-nmw/raw/master/assets/cover.jpg"
 repo: "asancpt/edison-nmw"
 pinned: true
 ---

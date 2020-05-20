@@ -1,7 +1,7 @@
 ---
 title: "Basic 1 모델 구축의 기초"
 author: "임동석, 이소진, 배수현, 전상일, 홍태곤, 한승훈, 김정렬"
-date: "2020-05-20T23:59:59Z"
+date: "2020-05-19"
 tags: [NONMEM, pharmacometrics, PK, PD]
 link: "https://pipetcpt.github.io/book-basic-1"
 length_weight: "100%"

@@ -5,7 +5,7 @@ date: "2020-06-06"
 tags: [NONMEM, pharmacometrics, PK, PD, Qfitter]
 link: "http://pipet.or.kr/books/basic"
 length_weight: "100%"
-cover: "http://pipet.or.kr/books/basic/docs/images/cover.jpg"
+cover: "http://pipet.or.kr/books/basic/images/cover.jpg"
 repo: "pipetcpt/basic"
 pinned: true
 ---

@@ -5,7 +5,7 @@ date: "2020-06-01"
 tags: [NONMEM, R, NCA]
 link: "https://asancpt.github.io/book-ncar"
 length_weight: "100%"
-cover: "https://github.com/asancpt/book-ncar/raw/master/images/cover.jpg"
+cover: "https://asancpt.github.io/book-ncar/images/cover.jpg"
 repo: "asancpt/book-ncar"
 pinned: true
 ---

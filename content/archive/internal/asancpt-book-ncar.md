@@ -1,11 +1,11 @@
 ---
 title: "R을 사용한 비구획분석"
 author: "배균섭, 한성필, 윤석규, 조용순, 김형섭"
-date: "2020-01-03"
+date: "2020-06-01"
 tags: [NONMEM, R, NCA]
 link: "https://asancpt.github.io/book-ncar"
 length_weight: "100%"
-cover: "https://github.com/asancpt/book-ncar/raw/master/assets/cover.jpg"
+cover: "https://github.com/asancpt/book-ncar/raw/master/images/cover.jpg"
 repo: "asancpt/book-ncar"
 pinned: true
 ---

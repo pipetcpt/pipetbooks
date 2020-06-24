@@ -5,7 +5,7 @@ date: "2020-05-01"
 tags: [NONMEM, R, NCA, nmw]
 link: "https://asancpt.github.io/nmw-nonmem"
 length_weight: "100%"
-cover: "https://github.com/asancpt/edison-nmw/raw/master/assets/cover.jpg"
+cover: "https://github.com/asancpt/edison-nmw/raw/master/images/cover.jpg"
 repo: "asancpt/nmw-nonmem"
 pinned: true
 ---

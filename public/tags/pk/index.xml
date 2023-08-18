@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PK on pipetbooks</title>
+    <link>https://pipetbooks.org/tags/pk/</link>
+    <description>Recent content in PK on pipetbooks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pipetbooks.org/tags/pk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>계량약리학 워크샵 - 초급 과정</title>
+      <link>https://pipetbooks.org/archive/pipetcpt-book-basic/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/pipetcpt-book-basic/</guid>
+      <description>혼합효과 모델링(mixed-effects modeling)은 신약개발과 임상시험, 시판허가 등의 주요 의사결정에 필수적으로 쓰이고 있는 계량약리학적 접근법의 핵심적인 기법으로서 그 기본개념을 익히는 것이 결코 쉽지 않습니다. 2009년부터 매년 열리고 있는 PK/PD 워크샵의 내용을 입문자들이 보다 쉽게 이해하고 따라갈 수 있도록 basic-1과 2의 교재를 책으로 다시 펴내게 되었습니다. 약동-약력학 모델링을 위해 가장 널리 사용하는 NONMEM 소프트웨어를 활용하기 위에 알아야 하는 기본개념들과 그 사용법을 소개합니다.</description>
+    </item>
+    
+    <item>
+      <title>비선형 혼합효과 모델을 적용한 집단 PK/PD 분석 입문 (신일서적)</title>
+      <link>https://pipetbooks.org/archive/internal/pipetcpt-kelly/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/internal/pipetcpt-kelly/</guid>
+      <description>이 책은 비선형 혼합효과 모델을 적용한 집단 PK/PD 분석을 다룬 이론서로 약물학의 기초적이고 전반적인 내용을 학습할 수 있도록 구성했다.</description>
+    </item>
+    
+  </channel>
+</rss>

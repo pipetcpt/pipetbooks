@@ -1,0 +1,184 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on pipetbooks</title>
+    <link>https://pipetbooks.org/</link>
+    <description>Recent content in Home on pipetbooks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pipetbooks.org/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>All books on bookdown.org</title>
+      <link>https://pipetbooks.org/archive/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/</guid>
+      <description>
+        &lt;p&gt;Below is a list of books written with &lt;strong&gt;bookdown&lt;/strong&gt;, including those published to bookdown.org (books without substantial content are excluded) and a few hosted on external servers. The books are ordered roughly by date. An asterisk &lt;code&gt;*&lt;/code&gt; after a date indicates the date is unknown, which often means a &lt;code&gt;date&lt;/code&gt; field is missing in the YAML metadata of the source document &lt;code&gt;index.Rmd&lt;/code&gt;. The list of books is automatically generated. For more information (including how to add or remove your books on this page), please see the &lt;a href=&#34;./about/&#34;&gt;About&lt;/a&gt; page.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>bookdown: Easy Book Publishing with R Markdown</title>
+      <link>https://pipetbooks.org/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/getting-started/</guid>
+      <description>
+        &lt;p&gt;Moved to the &lt;a href=&#34;./about/&#34;&gt;about page&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>List of books by authors</title>
+      <link>https://pipetbooks.org/authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/authors/</guid>
+      <description>
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>PIPET Books</title>
+      <link>https://pipetbooks.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/about/</guid>
+      <description>
+        &lt;h1 id=&#34;pipet&#34;&gt;PIPET&lt;/h1&gt;
+&lt;h2 id=&#34;pipet-books에-대하여&#34;&gt;PIPET Books에 대하여&lt;/h2&gt;
+&lt;p&gt;We hope you will enjoy &lt;strong&gt;bookdown&lt;/strong&gt; and find this website useful. Looking forward to your own awesome books!&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://github.com/rstudio/bookdown&#34;&gt;&lt;strong&gt;bookdown&lt;/strong&gt;&lt;/a&gt; package is a free and open-source R package built on top of &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;R Markdown&lt;/a&gt; to make it really easy to write books and long-form articles/reports. Markdown is a very simple language but made powerful thanks to &lt;a href=&#34;http://pandoc.org&#34;&gt;Pandoc&lt;/a&gt;, and &lt;strong&gt;bookdown&lt;/strong&gt; has added a few important missing features related to writing books, such as figure/table caption numbering and cross-references, and embedding &lt;a href=&#34;https://htmlwidgets.org&#34;&gt;HTML widgets&lt;/a&gt; or &lt;a href=&#34;https://shiny.rstudio.com&#34;&gt;Shiny apps&lt;/a&gt;. We have tried hard to make everything work for all output formats (PDF, HTML, and EPUB, etc), so your readers can choose their favorite file format to read. Although the &lt;strong&gt;bookdown&lt;/strong&gt; package was developed using R, it does not mean your book have to be related to R at all. You can certainly write poems or novels with &lt;strong&gt;bookdown&lt;/strong&gt;!&lt;/p&gt;
+&lt;h2 id=&#34;about-bookdownorg&#34;&gt;About bookdown.org&lt;/h2&gt;
+&lt;p&gt;The website bookdown.org is a service provided by &lt;a href=&#34;https://www.rstudio.com&#34;&gt;RStudio, PBC&lt;/a&gt; to host books. It is free for you to publish the static output files of your book, and you hold the full copyright of your own books. Please note that bookdown.org is based on &lt;a href=&#34;https://www.rstudio.com/products/connect/&#34;&gt;RStudio Connect&lt;/a&gt;, so in theory you could publish any types of content here (single R Markdown reports, slides, dashboards, Shiny apps, and so on). However, we only support books here, and &lt;em&gt;reserve the right to stop serving and delete other types of content&lt;/em&gt; you publish to bookdown.org. Please consider using RStudio Connect, &lt;a href=&#34;https://www.shinyapps.io&#34;&gt;ShinyApps.io&lt;/a&gt;, other hosting services, or your own server for publishing those types of content instead.&lt;/p&gt;
+&lt;h2 id=&#34;getting-started&#34;&gt;Getting started&lt;/h2&gt;
+&lt;p&gt;Below are a few simple steps for you to get started with writing a book using &lt;strong&gt;bookdown&lt;/strong&gt;. For the comprehensive documentation of &lt;strong&gt;bookdown&lt;/strong&gt;, please see &lt;a href=&#34;https://bookdown.org/yihui/bookdown&#34;&gt;https://bookdown.org/yihui/bookdown&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;1-install&#34;&gt;1. Install&lt;/h3&gt;
+&lt;p&gt;First install the &lt;strong&gt;bookdown&lt;/strong&gt; R package as follows:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# you can either use the CRAN version&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;install.packages&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;bookdown&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;# or the development version on Github&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;devtools&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;install_github&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;rstudio/bookdown&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/preview/&#34;&gt;RStudio IDE&lt;/a&gt; is recommended but not strictly required (we will show it in the next steps).&lt;/p&gt;
+&lt;h3 id=&#34;2-edit&#34;&gt;2. Edit&lt;/h3&gt;
+&lt;p&gt;One way to get started is to fork or clone the the repository &lt;a href=&#34;https://github.com/rstudio/bookdown-demo&#34;&gt;https://github.com/rstudio/bookdown-demo&lt;/a&gt; (if you are not familiar with Git and GitHub, you can alternatively download it as a &lt;a href=&#34;https://github.com/rstudio/bookdown-demo/archive/master.zip&#34;&gt;zip file&lt;/a&gt; and unzip it). Alternatively, if you are using a recent version of the RStudio IDE, you can directly create a book project in the IDE.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/163582/42904357-6a41de3e-8a9a-11e8-87d1-fee8b85a2dfc.png&#34; alt=&#34;Create a book project in RStudio&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Open the demo book project within RStudio, open the &lt;code&gt;index.Rmd&lt;/code&gt; file, and click the &lt;strong&gt;Knit&lt;/strong&gt; button:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./images/knit-book.png&#34; alt=&#34;Knit index.Rmd in a bookdown project&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Now you should see the index page of this book demo in the preview window:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./images/preview-book.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Knit&lt;/strong&gt; button renders just the chapter you are currently editing (e.g. &lt;code&gt;index.Rmd&lt;/code&gt;, &lt;code&gt;01-intro.Rmd&lt;/code&gt;, etc.) using the default output format for the book. To build all chapters and all formats of the book you can use the &lt;strong&gt;Build Book&lt;/strong&gt; button within the RStudio Build pane:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./images/build-book.png&#34; alt=&#34;Build book&#34;&gt;&lt;/p&gt;
+&lt;p&gt;By default the HTML, PDF, and ePub formats of the book will be compiled into the &lt;code&gt;_book&lt;/code&gt; sub-directory of the project (you can also build a single format at a time using the &lt;strong&gt;Build Book&lt;/strong&gt; menu).&lt;/p&gt;
+&lt;h3 id=&#34;3-publish&#34;&gt;3. Publish&lt;/h3&gt;
+&lt;p&gt;To publish your books to bookdown.org, you need to first create an account by &lt;a href=&#34;http://bookdown.org/connect/&#34;&gt;signing in&lt;/a&gt; with your Google account, and then call the function &lt;code&gt;publish_book()&lt;/code&gt; in R:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;bookdown&lt;span style=&#34;color:#f92672&#34;&gt;::&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;publish_book&lt;/span&gt;(render &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;local&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If it is the first time you have tried to publish the book, you will be asked to authorize &lt;strong&gt;bookdown&lt;/strong&gt; to publish to your bookdown.org account.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-get-your-book-listed-on-bookdownorg&#34;&gt;How to get your book listed on bookdown.org&lt;/h2&gt;
+&lt;p&gt;The list of books on the &lt;a href=&#34;./archive/&#34;&gt;archive&lt;/a&gt; page is generated automatically from all available books published to bookdown.org. Please note that a lot of them are still incomplete.&lt;/p&gt;
+&lt;p&gt;To make sure your book is properly listed on bookdown.org, you need to add a few optional fields in the YAML metadata in your &lt;code&gt;index.Rmd&lt;/code&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;description&lt;/code&gt;: A summary of your book (if shorter than 400 characters, more text from your book&amp;rsquo;s homepage will be used). The description should be plain text &lt;em&gt;without&lt;/em&gt; using any Markdown syntax such as &lt;code&gt;_italic_&lt;/code&gt; or &lt;code&gt;**bold**&lt;/code&gt; or &lt;code&gt;[text](url)&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;github-repo:&lt;/code&gt; A character string of your Github repo name of the form &lt;code&gt;user/repo&lt;/code&gt;, e.g., &lt;code&gt;rstudio/bookdown&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;cover-image&lt;/code&gt;: The path to the cover image of your book (must be accessible via HTTPS).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here is an example:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;This is a minimal bookdown demo. It shows the basics of ...&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;github-repo&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;rstudio/bookdown-demo&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;cover-image&lt;/span&gt;: &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;images/cover.png&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;If your book is written with &lt;strong&gt;bookdown&lt;/strong&gt; but not published to bookdown.org, you may edit the file &lt;a href=&#34;https://github.com/rstudio/bookdown.org/edit/master/R/staging.txt&#34;&gt;&lt;code&gt;R/staging.txt&lt;/code&gt;&lt;/a&gt; (just click this link) on Github and submit a pull request (&lt;a href=&#34;https://github.com/rstudio/bookdown.org/pull/13&#34;&gt;an example&lt;/a&gt;). This will get your book listed on the archive page after we merge the pull request.&lt;/p&gt;
+&lt;p&gt;Books on the bookdown.org homepage are selected manually by us according to their quality and completeness. If you want your book to be featured on the homepage (ideally the book has been published or is at least nearly finished), please submit a pull request as mentioned in the previous step to list it on the archive page. If it looks good to us, we will be happy to list it on the homepage.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t want your book to be publicly listed on bookdown.org, you may either request us to remove it from the list by editing the file &lt;a href=&#34;https://github.com/rstudio/bookdown.org/edit/master/R/exclude.txt&#34;&gt;&lt;code&gt;R/exclude.txt&lt;/code&gt;&lt;/a&gt;, or make the book private on bookdown.org:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://user-images.githubusercontent.com/163582/43099998-9718029c-8e89-11e8-9abd-01934120d9dc.png&#34; alt=&#34;Make a book private on bookdown.org&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Books are also classified by &lt;a href=&#34;./tags/&#34;&gt;tags&lt;/a&gt; on this website. If you want your book to show up on a certain tag page, you need to make sure the tag appears in your book description (case-insensitive). To request a new tag to be added, you may edit the file &lt;a href=&#34;https://github.com/rstudio/bookdown.org/edit/master/R/tags.txt&#34;&gt;&lt;code&gt;R/tags.txt&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We hope you will enjoy &lt;strong&gt;bookdown&lt;/strong&gt; and find this website useful. Looking forward to your own awesome books!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The bookdown Contest</title>
+      <link>https://pipetbooks.org/contest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/contest/</guid>
+      <description>
+        &lt;p&gt;We launched &lt;a href=&#34;https://blog.rstudio.com/2018/07/27/first-bookdown-contest/&#34;&gt;the first &lt;strong&gt;bookdown&lt;/strong&gt; contest&lt;/a&gt; on July 27, 2018, and received 43 submissions in two months. Below is the list of award recipients and their &lt;strong&gt;bookdown&lt;/strong&gt; applications (see details on &lt;a href=&#34;https://community.rstudio.com/t/16394&#34;&gt;RStudio Community&lt;/a&gt;):&lt;/p&gt;
+&lt;h2 id=&#34;grand-prize&#34;&gt;Grand prize&lt;/h2&gt;
+&lt;p&gt;Recipient: @pabloc for &lt;a href=&#34;https://community.rstudio.com/t/bookdown-contest-submission-data-science-live-book/13298&#34;&gt;Data Science Live Book &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://community.rstudio.com/uploads/default/original/2X/1/1991ab69a54a6287fba52b74934ab079521db05d.jpeg&#34; alt=&#34;data-science-live-book|659x500&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Pablo showed the possibility of publishing a book with &lt;strong&gt;bookdown&lt;/strong&gt; all by yourself (i.e., self-publishing). If you are interested in self-publishing books, I courage you to read the two blog posts mentioned in the submission, which covered a lot of useful and practical technical tips.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.datascienceheroes.com/how-to-self-publish-a-book/&#34;&gt;How to self-publish a book: A handy list of resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.datascienceheroes.com/how-to-self-publish-a-book-customizing-bookdown/&#34;&gt;How to self publish a book: customizing bookdown&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The book is &lt;a href=&#34;https://github.com/pablo14/data-science-live-book&#34;&gt;open source on Github&lt;/a&gt; (of course!). I hope you could hesitate no more after seeing Pablo&amp;rsquo;s example, and will enjoy the excitement of having a physical copy of your book in your own hands a couple of months later. I&amp;rsquo;m sure Pablo will be happy to help if you have any questions on self-publishing.&lt;/p&gt;
+&lt;h2 id=&#34;runner-up-prizes&#34;&gt;Runner Up Prizes&lt;/h2&gt;
+&lt;p&gt;The three recipients and their work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;@grimbough&amp;rsquo;s &lt;strong&gt;msmbstyle&lt;/strong&gt; package: &lt;a href=&#34;https://community.rstudio.com/t/14998&#34;&gt;https://community.rstudio.com/t/14998&lt;/a&gt; This is a &lt;strong&gt;bookdown&lt;/strong&gt; extension package for the Tufte style. Besides a nice style, it has also provided additional features such as Question/Solution/Exercise blocks. Currently a real book, &lt;a href=&#34;https://www-huber.embl.de/msmb/&#34;&gt;&lt;em&gt;Modern Statistics for Modern Biology&lt;/em&gt;&lt;/a&gt;, is being written with this style. @grimbough has also tried to port some of the Tufte features to the Bootstrap style.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@Xiangyun&amp;rsquo;s master thesis at CUMT (China University of Mining and Technology): &lt;a href=&#34;https://community.rstudio.com/t/12466&#34;&gt;https://community.rstudio.com/t/12466&lt;/a&gt; and @pranav.pandya&amp;rsquo;s master thesis at Berlin School of Economics and Law: &lt;a href=&#34;https://community.rstudio.com/t/15350&#34;&gt;https://community.rstudio.com/t/15350&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There were several submissions on dissertation/thesis templates, and the above two were picked because (1) the authors have successfully graduated with their degrees, which means they must have won in the constant fight with their graduate schools (I kind of lost in 2013, so they &amp;ldquo;made it up&amp;rdquo; for me to some extent); (2) they provided both PDF and web versions of their theses. Pranav&amp;rsquo;s thesis was based on Chester Ismay&amp;rsquo;s &lt;strong&gt;thesisdown&lt;/strong&gt; package. Chester really should have received the award, too, but I think the large number of theses, including Pranav&amp;rsquo;s, is the best award for Chester.&lt;/p&gt;
+&lt;h2 id=&#34;honorable-mention-prizes&#34;&gt;Honorable Mention Prizes&lt;/h2&gt;
+&lt;p&gt;Recipients and their work:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;@colin&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/14563&#34;&gt;&lt;strong&gt;backyard&lt;/strong&gt; package&lt;/a&gt;. It has basically provided a GUI for &lt;strong&gt;bookdown&lt;/strong&gt;. It is absolutely amazing. If it were not still work in progress, I&amp;rsquo;d have to fight with myself for longer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@robjhyndman&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/11701&#34;&gt;Monash University templates&lt;/a&gt;. Students and faculty in other universities may feel jealousy about these templates, since it seems Monash can escape from the LaTeX world now.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@jweisber&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/15470&#34;&gt;book &amp;ldquo;Odds &amp;amp; Ends&amp;rdquo;&lt;/a&gt;. It is a beautiful and elegant extension of the Tufte style. I thumbed through the book, and it appeared to be a great book, too!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@dapeng submitted multiple entries:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.rstudio.com/t/13992&#34;&gt;Peking University thesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.rstudio.com/t/14259&#34;&gt;example of really large-scale collaboration on a book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.rstudio.com/t/14665&#34;&gt;mail templates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.rstudio.com/t/13935&#34;&gt;Elsevier papers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.rstudio.com/t/14740&#34;&gt;University of the Chinese Academy of Sciences thesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.rstudio.com/t/14834&#34;&gt;bookdown template gallery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://community.rstudio.com/t/15121&#34;&gt;mind maps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@zachbogart and @jtr13&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/15168&#34;&gt;edav.info/&lt;/a&gt;. When will course notes follow the Wikipedia model?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@ejkasner&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/11646&#34;&gt;University of Washington dissertation template&lt;/a&gt;. Features the use of child documents (each chapter as a child document), LaTeX customization, and &lt;code&gt;bookdown::pdf_document2&lt;/code&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@martin.arnold&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/15372&#34;&gt;interactive companion&lt;/a&gt; to the well-received textbook &lt;em&gt;Introduction to Econometrics&lt;/em&gt; (Stock &amp;amp; Watson, 2015).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@Desautm&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/15324&#34;&gt;Notes for advanced calculus&lt;/a&gt; in French (with some interesting LaTeX tricks).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@robinlovelace&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/15353&#34;&gt;Geocomputation with R&lt;/a&gt;, a book containing animations, interactive widgets, and shiny apps. Also a great example of collaboration among multiple authors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@bubifengyun&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/15136&#34;&gt;book in Chinese&lt;/a&gt; with a large amount of LaTeX customizations, and &lt;a href=&#34;https://community.rstudio.com/t/15268&#34;&gt;Shanghai Jiao Tong University thesis&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;@yimeng&amp;rsquo;s &lt;a href=&#34;https://community.rstudio.com/t/15367&#34;&gt;Renmin University of China thesis&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

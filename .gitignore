@@ -1,7 +1,6 @@
 .DS_Store
 R/_book_meta.rds
 blogdown
-public
 rsconnect
 
 # History files

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All books on bookdown.org on pipetbooks</title>
+    <link>https://pipetbooks.org/archive/</link>
+    <description>Recent content in All books on bookdown.org on pipetbooks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pipetbooks.org/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>신약개발을 위한 실전 약동학 I (기본원리와 자료해석)</title>
+      <link>https://pipetbooks.org/archive/internal/pipetcpt-book-ncar/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/internal/pipetcpt-book-ncar/</guid>
+      <description>약동학은 신약의 발견부터 시판허가 이후의 관리에 이르기까지 모든 단계에서 쓰이는 가장 기본적이고 필수적인 지식이며 도구이다. 저자들은 지난 20여년간 대학과 기업의 연구원들을 대상으로 약동학을 가르치며 겪은 학습자들의 질문과 반응들을 토대로 꼭 필요한 내용들을 이해하기 쉽게 설명하고자 영상 제작과 함께, 이 교재를 만들게 되었다. 약동학 책이라면 흔히 떠올리는, 맥락을 알 수 없는 미분방정식들로 가득 찬 책이 아니라, 학위과정 중에 약동학을 공부할 기회가 없었던 제약/바이오 연구자 분들도 정독하면 이해할 수 있는 책이 될 수 있도록 꼭 필요한만큼의 수식들만 넣었다.</description>
+    </item>
+    
+    <item>
+      <title>계량약리학 워크샵 - 초급 과정</title>
+      <link>https://pipetbooks.org/archive/pipetcpt-book-basic/</link>
+      <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/pipetcpt-book-basic/</guid>
+      <description>혼합효과 모델링(mixed-effects modeling)은 신약개발과 임상시험, 시판허가 등의 주요 의사결정에 필수적으로 쓰이고 있는 계량약리학적 접근법의 핵심적인 기법으로서 그 기본개념을 익히는 것이 결코 쉽지 않습니다. 2009년부터 매년 열리고 있는 PK/PD 워크샵의 내용을 입문자들이 보다 쉽게 이해하고 따라갈 수 있도록 basic-1과 2의 교재를 책으로 다시 펴내게 되었습니다. 약동-약력학 모델링을 위해 가장 널리 사용하는 NONMEM 소프트웨어를 활용하기 위에 알아야 하는 기본개념들과 그 사용법을 소개합니다.</description>
+    </item>
+    
+    <item>
+      <title>R을 사용한 비구획분석과 생물학적동등성 평가</title>
+      <link>https://pipetbooks.org/archive/internal/asancpt-book-ncar/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/internal/asancpt-book-ncar/</guid>
+      <description>이 책은 R을 사용하여 비구획분석을 수행할 수 있도록 소개할 것입니다. 이 책은 R 패키지를 사용하여 비구획분석을 쉽게 수행할 수 있도록 쓰여졌습니다. 값비싼 상용소프트웨어와 동일한 결과를 얻으면서, 한번 익혀두면 속도와 연속성 측면에서 잇점이 많은 것을 발견할 수 있을 것입니다. 무엇보다 무료로 사용할 수 있는 R기반의 공개 소프트웨어라는 점에서 많은 연구자 혹은 기관에서 손쉽게 설치하고 실행할 수 있으리라 생각됩니다. 임상시험 자료를 통해 반복적으로 확인하였습니다. CDISC SDTM 표준을 따르는 용어를 사용한 것도 큰 장점입니다.</description>
+    </item>
+    
+    <item>
+      <title>nmw: R패키지를 통해 이해하는 비선형 혼합효과 모델링</title>
+      <link>https://pipetbooks.org/archive/internal/asancpt-nmw-nonmem/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/internal/asancpt-nmw-nonmem/</guid>
+      <description>본 교재의 목적은 비선형 혼합효과 모델링 과정을 이해하고자 개발된 R패키지 nmw의 사용법을 소개하고 이를 활용한 Edison 사이언스앱의 활용법을 제시하는 것입니다. nmw의 기본적인 배경지식을 설명하고, 함수 사용법을 보이며, 비선형 혼합효과 모델링(nonlinear mixed effects modeling)의 수학적 원리를 익힐 수 있습니다. 이러한 이해를 통해 집단 약동학-약력학 모델링을 보다 깊이있게 수행할 수 있고, 다양한 시뮬레이션으로 응용되어 약물의 용량/용법 결정에 도움을 줄 수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>앱을 사용한 비구획분석과 생물학적동등성 분석의 통합</title>
+      <link>https://pipetbooks.org/archive/internal/asancpt-be/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/internal/asancpt-be/</guid>
+      <description>생물학적동등성은 비구획분석으로 계산된 약동학적 파라미터를 사용하여 통계 분석을 수행함으로 판단할 수 있다. 현재는 이러한 분석을 위해서 여러 상용 소프트웨어를 필요로 하는 복잡한 단계를 거쳐야 한다. 따라서 분석 시간이 오래 걸리고 많은 비용이 소모되었다. 본 저자들은 EDISON 사이언스 앱, R 샤이니 앱을 사용하여 이 두 과정을 통합하였고, 이로서 농도-시간 자료로부터 비구획분석과 생물학적동등성 통계 분석까지 연속적으로 가능하게 되었다.</description>
+    </item>
+    
+    <item>
+      <title>비선형 혼합효과 모델을 적용한 집단 PK/PD 분석 입문 (신일서적)</title>
+      <link>https://pipetbooks.org/archive/internal/pipetcpt-kelly/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://pipetbooks.org/archive/internal/pipetcpt-kelly/</guid>
+      <description>이 책은 비선형 혼합효과 모델을 적용한 집단 PK/PD 분석을 다룬 이론서로 약물학의 기초적이고 전반적인 내용을 학습할 수 있도록 구성했다.</description>
+    </item>
+    
+  </channel>
+</rss>
